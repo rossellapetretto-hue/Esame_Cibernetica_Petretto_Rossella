@@ -1,0 +1,4 @@
+Essendo il Quiz un formato nativamente interattivo generato dallo "Studio" di NotebookLM, l'esportazione testuale ne avrebbe compromesso la fruibilità. Ho quindi generato l'artifact nativo e ne ho ricavato il link di condivisione pubblica. [🔗 Clicca qui per accedere ed eseguire il Quiz Interattivo su NotebookLM](https://notebooklm.google.com/notebook/7df279c8-034b-4735-8333-53d88f378e32/artifact/03955d9c-467d-4d39-b9db-bf6b9d3a4a7a?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_) 
+
+## Prompt di Inizializzazione
+Crea un quiz a risposta multipla di 5 domande per testare la conoscenza delle regole di Root. Le domande devono riguardare eccezioni specifiche o casi limite (es. le regole di Movimento del Vagabondo, o le restrizioni di posizionamento delle Dinastie delle Aquile). Per ogni domanda fornisci 3 opzioni, indica la risposta corretta e aggiungi una spiegazione basata sul manuale. 

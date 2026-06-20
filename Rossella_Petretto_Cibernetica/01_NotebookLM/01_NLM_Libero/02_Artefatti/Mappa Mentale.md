@@ -1,0 +1,5 @@
+## Prompt di Inizializzazione
+Crea la struttura testuale per una mappa mentale che spieghi dettagliatamente la "Risoluzione di una Battaglia". Il nodo centrale è "Inizio del Combattimento". I rami devono seguire la sequenza logica esatta del regolamento base (Scelta Radura/Difensore -> Giocare Carte Imboscata -> Tiro dei Dadi -> Calcolo Colpi Extra -> Rimozione Pezzi -> Assegnazione Punti).
+
+## Risultato
+[🔗 Clicca qui per accedere alla mappa mentale interattiva su NotebookLM]([https://notebooklm.google.com/notebook/4a9d0e13-48ee-4528-8e0f-8e4b6157ef95/artifact/6a0587a6-1f6c-4cbd-8f1f-cd4661a55bcf?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_](https://notebooklm.google.com/notebook/7df279c8-034b-4735-8333-53d88f378e32/artifact/1e894e7e-4749-4617-b4f8-1c3ec7c1a2ad?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_))

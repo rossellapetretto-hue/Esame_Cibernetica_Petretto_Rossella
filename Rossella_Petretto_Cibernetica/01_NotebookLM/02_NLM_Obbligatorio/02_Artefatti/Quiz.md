@@ -1,0 +1,4 @@
+Essendo il Quiz un formato nativamente interattivo generato dallo "Studio" di NotebookLM, l'esportazione testuale ne avrebbe compromesso la fruibilità. Ho quindi generato l'artifact nativo e ne ho ricavato il link di condivisione pubblica. [🔗 Clicca qui per accedere ed eseguire il Quiz Interattivo su NotebookLM](https://notebooklm.google.com/notebook/4a9d0e13-48ee-4528-8e0f-8e4b6157ef95/artifact/a1208dc3-f6c4-4801-8929-4ff153ef4d3d?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_) 
+
+## Prompt di Inizializzazione
+Crea un quiz a risposta multipla di 5 domande difficili basato esclusivamente sui manuali di prompting forniti. Le domande devono vertere su errori comuni da evitare (es. uso di prompt negativi) e sull'uso corretto della sintassi descrittiva. Per ogni domanda fornisci 3 opzioni, indica la risposta corretta e aggiungi una breve spiegazione tecnica.

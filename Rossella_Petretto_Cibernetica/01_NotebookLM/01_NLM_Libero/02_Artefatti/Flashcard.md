@@ -1,0 +1,4 @@
+## Prompt di Inizializzazione
+  Genera un set di 10 flashcard per un nuovo giocatore di Root. Nel "Fronte" inserisci un termine specifico di gioco (es. Radura, Dominio, Seme della Carta, Fabbricare Oggetti, Sentiero, Rovine). Nel "Retro" fornisci la definizione esatta e sintetica tratta dal glossario o dal regolamento base.
+## Risultato
+[🔗 Clicca qui per accedere ed eseguire alle flashcard interattive su NotebookLM](https://notebooklm.google.com/notebook/7df279c8-034b-4735-8333-53d88f378e32/artifact/ad3f6d7c-5faf-4777-9284-b260cc368099?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
